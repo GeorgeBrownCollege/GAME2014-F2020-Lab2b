@@ -199,7 +199,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4427445857751252020, guid: a7381cb1bc7e16e4587353655b820499, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 700
+      value: 650
       objectReference: {fileID: 0}
     - target: {fileID: 4427445857751252020, guid: a7381cb1bc7e16e4587353655b820499, type: 3}
       propertyPath: m_SizeDelta.y
@@ -422,6 +422,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LivesLabel: {fileID: 618127300}
   ScoreLabel: {fileID: 741115}
+  scaler: {fileID: 1464160467}
+  scale: {x: 0, y: 0}
 --- !u!1 &434173431
 GameObject:
   m_ObjectHideFlags: 0
@@ -1164,7 +1166,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1625078232481282196, guid: 6650f64216b6865419449968dd1f3236, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 500
+      value: 450
       objectReference: {fileID: 0}
     - target: {fileID: 1625078232481282196, guid: 6650f64216b6865419449968dd1f3236, type: 3}
       propertyPath: m_SizeDelta.y
